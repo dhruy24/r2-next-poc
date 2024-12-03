@@ -13,6 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+"user_managemnet" API shopuld be running on port 8200 and "matches" API should be running on port 8000
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
